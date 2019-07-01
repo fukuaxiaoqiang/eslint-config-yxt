@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-yxt",
+  "version": "0.0.1",
+  "description": "better code style",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "react",
+    "mac"
+  ],
+  "author": "swift",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fukuaxiaoqiang/eslint-config-yxt.git"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.2"
+  }
+}
