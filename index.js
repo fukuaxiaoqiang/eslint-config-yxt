@@ -35,6 +35,7 @@ module.exports = {
         prop: 'parens-new-line'
       }],
       'react/prefer-stateless-function': ['off'],
+      "react/prop-types": ['off'],
       'react/forbid-prop-types': ['off'],
       'react/require-default-props': ['off'],
       'react/jsx-filename-extension': ['off'],
