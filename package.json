@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-yxt",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "better code style",
   "main": "index.js",
   "keywords": [
